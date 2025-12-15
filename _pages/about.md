@@ -8,7 +8,7 @@ redirect_from:
 
 About Me
 ======
-<strong>Short Bio:</strong> I am currently a third-year Ph.D. student in the [Research School of Computing](https://comp.anu.edu.au/), [Australian National University](https://www.anu.edu.au/), supervised by [Prof. Stephen Gould](https://users.cecs.anu.edu.au/~sgould/), [Prof. Liang Zheng](https://zheng-lab-anu.github.io/), [Dr. Ming Xu](https://people.epfl.ch/mingda.xu?lang=en), and [Dr. Akshay Asthana](https://www.linkedin.com/in/akshayasthana/?originalSubdomain=au). Before that, I received my master's degree in computing from [Australian National University](https://www.anu.edu.au/) in 2022 and my bachelor's degree in mathematics from [Peking University](https://www.pku.edu.cn) in 2019.
+<strong>Short Bio:</strong> I am currently a third-year Ph.D. student in the [Research School of Computing](https://comp.anu.edu.au/), [Australian National University](https://www.anu.edu.au/), supervised by [Prof. Stephen Gould](https://users.cecs.anu.edu.au/~sgould/) and [Prof. Liang Zheng](https://zheng-lab-anu.github.io/). Before that, I received my master's degree in computing from [Australian National University](https://www.anu.edu.au/) in 2022 and my bachelor's degree in mathematics from [Peking University](https://www.pku.edu.cn) in 2019.
 
 <strong>Research interest: </strong>I have broad interest in computer vision especially autoregressive modeling, including both autoregressive visual understanding and generation.
 
@@ -27,7 +27,8 @@ Publications
     <strong>Qinyu Zhao</strong>, Guangting Zheng, Tao Yang, Rui Zhu, Xingjian Leng, Stephen Gould, Liang Zheng<br>
     <em>ArXiv preprint, 2025</em><br>
     📄 <a href="https://arxiv.org/abs/2512.04084">Preprint</a> |
-    🌐 <a href="https://qinyu-allen-zhao.github.io/SimFlow/">Project page</a>
+    🌐 <a href="https://qinyu-allen-zhao.github.io/SimFlow/">Project page</a> |  | 
+    💻 <a href="https://github.com/ByteDance-Seed/SimFlow">Code</a>
   </div>
 </div>
 
