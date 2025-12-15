@@ -27,7 +27,7 @@ Publications
     <strong>Qinyu Zhao</strong>, Guangting Zheng, Tao Yang, Rui Zhu, Xingjian Leng, Stephen Gould, Liang Zheng<br>
     <em>ArXiv preprint, 2025</em><br>
     📄 <a href="https://arxiv.org/abs/2512.04084">Preprint</a> |
-    🌐 <a href="https://qinyu-allen-zhao.github.io/SimFlow/">Project page</a> |  | 
+    🌐 <a href="https://qinyu-allen-zhao.github.io/SimFlow/">Project page</a> |
     💻 <a href="https://github.com/ByteDance-Seed/SimFlow">Code</a>
   </div>
 </div>
